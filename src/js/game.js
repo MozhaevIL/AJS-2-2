@@ -1,4 +1,4 @@
-import Character from "./app";
+import Character from "./domain";
 
 export default class Game {
     start() {
